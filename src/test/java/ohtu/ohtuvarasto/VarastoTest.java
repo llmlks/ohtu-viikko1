@@ -107,7 +107,7 @@ public class VarastoTest {
     public void negatiivinenOttoPalauttaaNolla() {
         varasto.lisaaVarastoon(5);
         double otto = varasto.otaVarastosta(-2);
-        assertEquals(0, otto, vertailuTarkkuus);
+        assertEquals(-2, otto, vertailuTarkkuus);
     }
 
     @Test
