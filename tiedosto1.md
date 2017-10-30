@@ -1,1 +1,0 @@
-Muutosten tuulet puhaltavat

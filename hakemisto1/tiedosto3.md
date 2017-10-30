@@ -1,1 +1,0 @@
-Herne etsi kaveria
