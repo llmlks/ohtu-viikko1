@@ -3,4 +3,4 @@ script:
   - ./gradlew check
   - ./gradlew jacocoTestReport
 after_success:
-  - <(curl -s https://codecov.iobash)
+  - bash <(curl -s https://codecov.iobash)
