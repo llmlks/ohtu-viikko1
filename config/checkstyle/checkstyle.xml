@@ -19,4 +19,8 @@
       </module>
     </module>
 
+    <module name="SuppressionFilter">
+	<property name="file" value="config/suppressions.xml"/>
+	<property name="optional" value="false"/>
+    </module>
 </module>
